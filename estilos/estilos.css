@@ -41,7 +41,7 @@ header .menu{
 
 }
 header .menu a{
-    color: black;
+    color: #fff;
     font-size: 20px;
     font-weight: 300;
     display: inline-block;
@@ -57,7 +57,7 @@ header .menu a:hover{
 
 header .texto{
     width: 100%;
-    color: black;
+    color: #fff;
     position: absolute;
     top: 25%;
     margin-top: -52px;
